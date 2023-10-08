@@ -6,7 +6,9 @@
 <div align="center">
   <h2> <strong> About </strong> me </h2>
   <br>
-  
+</div>
+
+<div align="left">
 - 👨‍💻 I'm Chenyu Yang👋 I graduated from SJSU with a Bachelor of Science degree in Computer Science <br><br><br>
 
 - 📚 I graduated from San Jose State University with a Bachelor of Science degree in Computer Science  <br><br><br>
