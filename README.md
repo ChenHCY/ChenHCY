@@ -39,6 +39,16 @@
 </div>
 
 <div align="center">
+  <h2> <strong> Leetcode and Algorithms Question </strong> </h2>!
+  
+[b5163d21a8ce941c5eb4a0d1393d777](https://github.com/ChenHCY/ChenHCY/assets/60770401/eadb7b91-a623-4028-b0a1-5efd10ebe362)
+
+  <br>
+
+
+</div>
+
+<div align="center">
   <h2> <strong> Technologies and Skills  </strong> </h2>
   
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
