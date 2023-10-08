@@ -25,10 +25,14 @@
 <div align="center">
   <h2> <strong> 📚 Education </strong> </h2>
   <br>
+</div>
 
-  <a href="http://chenresume.com/page/resume.html"> Bachelor of Science in Computer Science | San Jose State University </a>
+<div align="left">
+· Bachelor of Science in Computer Science | San Jose State University </p> <a href="http://chenresume.com/page/resume.html"> </a>
 
-  
+· College Honor: <br>
+
+The SJSU Dean's Scholars Honors <a href="http://chenresume.com/Files/Chenyu_Yang_Dean's_Scholar.pdf"> Certifications </a> 
   
 </div>
 
