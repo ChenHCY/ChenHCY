@@ -23,16 +23,29 @@
 </div>
 
 <div align="center">
-  <h2> <strong> 📚 Education </strong> </h2>
+  <h2> <strong> Education </strong> </h2>
   <br>
 </div>
 
 <div align="left">
-· Bachelor of Science in Computer Science | San Jose State University </p> <a href="http://chenresume.com/page/resume.html"> </a>
+📚 Bachelor of Science in Computer Science | San Jose State University } 3.6 / 4.0 </p> <a href="http://chenresume.com/page/resume.html"> </a>
 
-· College Honor: <br>
+🏆 College Honor: <br>
 
-The SJSU Dean's Scholars Honors <a href="http://chenresume.com/Files/Chenyu_Yang_Dean's_Scholar.pdf"> Certifications </a> 
-  
+· The SJSU Dean's Scholars Award Honors <a href="http://chenresume.com/Files/Chenyu_Yang_Dean's_Scholar.pdf"> Certifications </a> 
+
+· The President’s Scholar Award Honor (TOP 10% GPA) <a href="http://chenresume.com/Files/Chenyu_Yang_President_Scholar.pdf"> Certifications </a> 
+</div>
+
+<div align="center">
+  <h2> <strong> Technologies and Skills  </strong> </h2>
+  <br>
+
+  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img src="https://skillicons.dev/icons?i=java,html,css,cpp,js,ts,react,nodejs,nextjs,vuejs,redux,mongodb,webpack,vite,github," alt="skills logos" />
+  <br> 
+
+  <h3> <strong> Actively Learning </strong></h3>
+  <img src="https://skillicons.dev/icons?i=aws, python" alt="skills actively learning logos">
 </div>
 
