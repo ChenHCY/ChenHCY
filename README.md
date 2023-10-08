@@ -50,11 +50,11 @@
 </div>
 
 <div align="left">
-👩‍💻 Introduction to Front-End Development - Meta  <a href="https://coursera.org/share/f2736ef4a4ec105b82438fd02fd252b7"> Certifications </a> 
-<br>
-👩‍💻 Programming with JavaScript - Meta  <a href="https://coursera.org/share/0376663ee92fce364977199394eda1ea"> Certifications </a>
+👩‍💻 Introduction to Front-End Development - Meta  <a href="https://coursera.org/share/f2736ef4a4ec105b82438fd02fd252b7"> Certifications </a> <br>
 
-👩‍💻 Version Control - Meta  <a href="https://coursera.org/share/0376663ee92fce364977199394eda1ea"> Certifications </a>
+👩‍💻 Programming with JavaScript - Meta  <a href="https://coursera.org/share/0376663ee92fce364977199394eda1ea"> Certifications </a> <br>
 
-👩‍💻 JavaScript Algorithms and Data Structures - freeCodeCamp  <a href="https://freecodecamp.org/certification/ChenHCY0120/javascript-algorithms-and-data-structures"> Certifications </a>
+👩‍💻 Version Control - Meta  <a href="https://coursera.org/share/0376663ee92fce364977199394eda1ea"> Certifications </a> <br>
+
+👩‍💻 JavaScript Algorithms and Data Structures - freeCodeCamp  <a href="https://freecodecamp.org/certification/ChenHCY0120/javascript-algorithms-and-data-structures"> Certifications </a> <br>
 </div>
