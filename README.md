@@ -61,11 +61,11 @@
 </div>
 
 <div align="left">
-👩‍💻 Introduction to Front-End Development - Meta  <a href="https://coursera.org/share/f2736ef4a4ec105b82438fd02fd252b7"> Certifications </a> <br><br>
+👩‍💻 Introduction to Front-End Development - Meta  <a href="https://www.coursera.org/account/accomplishments/certificate/VRWTN446XDHB"> Certifications </a> <br><br>
 
-👩‍💻 Programming with JavaScript - Meta  <a href="https://coursera.org/share/0376663ee92fce364977199394eda1ea"> Certifications </a> <br>
+👩‍💻 Programming with JavaScript - Meta  <a href="https://www.coursera.org/account/accomplishments/certificate/7VKLXVJSA5QQ"> Certifications </a> <br>
 
-👩‍💻 Version Control - Meta  <a href="https://coursera.org/share/0376663ee92fce364977199394eda1ea"> Certifications </a> <br>
+👩‍💻 Version Control - Meta  <a href="https://www.coursera.org/account/accomplishments/certificate/NMF6HRZY6RNH"> Certifications </a> <br>
 
 👩‍💻 JavaScript Algorithms and Data Structures - freeCodeCamp  <a href="https://freecodecamp.org/certification/ChenHCY0120/javascript-algorithms-and-data-structures"> Certifications </a> <br>
 </div>
