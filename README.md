@@ -15,7 +15,7 @@
 
 · 💻 I have been working as a Web Developer in a Start-up company since 2021. <br>
 
-· 👩‍💻 Curr Goals: I am actively seeking a Software Engineer / Front-End Developer / Website and Mobile App Developer Full-time Role / or 2024 Spring Intership. <br>
+· 👩‍💻 Curr Goals: I am actively seeking a Software Engineer / Front-End Developer / Website and Mobile App Developer Full-time Role / or 2024 Spring Internship. <br>
 
 · 💻 Interest Area: Front End, Website Development, Android App, Soccer <br>
 
@@ -28,7 +28,7 @@
 </div>
 
 <div align="left">
-📚 Bachelor of Science in Computer Science | San Jose State University } 3.6 / 4.0 </p> <a href="http://chenresume.com/page/resume.html"> </a>
+📚 Bachelor of Science in Computer Science | San Jose State University | 3.6 / 4.0 </p> <a href="http://chenresume.com/page/resume.html"> </a>
 
 🏆 College Honor: <br>
 · The SJSU Latin Honors Medallion - Cum Laude
