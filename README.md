@@ -11,9 +11,9 @@
 <div align="left">
 · 👨‍💻 I'm Chenyu Yang👋 I graduated from SJSU with a Bachelor of Science degree in Computer Science <br><br>
 
-· 📚 I graduated from San Jose State University with a Bachelor of Science degree in Computer Science  <br><br>
+· 📚 I graduated from San Jose State University with a Bachelor of Science degree in Computer Science <br>
 
-· 💻 I have been working as a Web Developer in a Start-up company since 2021. <br><br>
+· 💻 I have been working as a Web Developer in a Start-up company since 2021. <br>
 
 · 👩‍💻 Curr Goals: I am actively seeking a Software Engineer / Full-Stack Developer / Front-End Developer / Website and Mobile App Developer Full-time Role. <br><br>
 
