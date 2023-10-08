@@ -73,14 +73,14 @@
 <div align="center">
   <h2 align="center">✉️ Contact Infor </h2>
   <a href="https://www.facebook.com/chenyu.yang.568" target="_blank">
-    <img src="./assets/logos/neon-facebook.png" width="50px" alt="Facebook"/>
+    <img src="./icon/facebook.png" width="50px" alt="Facebook"/>
   </a>
   &nbsp
   <a href="https://www.instagram.com/chen.hcy/" target="_blank">
-    <img src="./assets/logos/neon-instagram.png" width="50px" alt="Instagram"/>
+    <img src="./icon/ins.png" width="50px" alt="Instagram"/>
   </a>
   &nbsp
   <a href="https://www.linkedin.com/in/chen14/" target="_blank">
-    <img src="./assets/logos/neon-linkedin.png" width="50x" alt="LinkedIn"/>
+    <img src="./icon/linkedin.png" width="50x" alt="LinkedIn"/>
   </a>
 </div>
