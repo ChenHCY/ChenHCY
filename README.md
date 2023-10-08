@@ -26,7 +26,7 @@
   <h2> <strong> 📚 Education </strong> </h2>
   <br>
 
-  <a src="http://chenresume.com/page/resume.html"> Bachelor of Science in Computer Science | San Jose State University </a>
+  <a href="http://chenresume.com/page/resume.html"> Bachelor of Science in Computer Science | San Jose State University </a>
 
   
   
