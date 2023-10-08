@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <h2> <strong> Education </strong> </h2>
+  <h2> <strong> Education </strong> </h2> 
   <br>
 </div>
 
@@ -39,13 +39,14 @@
 </div>
 
 <div align="center">
-  <h2> <strong> Leetcode and Algorithms Question </strong> </h2>!
-  
-[b5163d21a8ce941c5eb4a0d1393d777](https://github.com/ChenHCY/ChenHCY/assets/60770401/eadb7b91-a623-4028-b0a1-5efd10ebe362)
-
+  <h2> <strong> Leetcode and Algorithms Question </strong> </h2>
   <br>
+</div>
 
+<div align = "left">
+🏆 Leetcode Question: 575 <a href="https://leetcode.com/HCYYCY/"> Leetcode Profile </a> 
 
+💻 Algorithms Question: <a href="https://github.com/ChenHCY/AlgorithmsQuestion"> Github Repositories </a>
 </div>
 
 <div align="center">
@@ -67,4 +68,19 @@
 👩‍💻 Version Control - Meta  <a href="https://coursera.org/share/0376663ee92fce364977199394eda1ea"> Certifications </a> <br>
 
 👩‍💻 JavaScript Algorithms and Data Structures - freeCodeCamp  <a href="https://freecodecamp.org/certification/ChenHCY0120/javascript-algorithms-and-data-structures"> Certifications </a> <br>
+</div>
+
+<div align="center">
+  <h2 align="center">✉️ Contact Infor </h2>
+  <a href="https://www.facebook.com/chenyu.yang.568" target="_blank">
+    <img src="./assets/logos/neon-facebook.png" width="50px" alt="Facebook"/>
+  </a>
+  &nbsp
+  <a href="https://www.instagram.com/chen.hcy/" target="_blank">
+    <img src="./assets/logos/neon-instagram.png" width="50px" alt="Instagram"/>
+  </a>
+  &nbsp
+  <a href="https://www.linkedin.com/in/chen14/" target="_blank">
+    <img src="./assets/logos/neon-linkedin.png" width="50x" alt="LinkedIn"/>
+  </a>
 </div>
