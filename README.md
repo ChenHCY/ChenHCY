@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-· 👨‍💻 I'm Chenyu Yang👋 <br><br>
+· 👨‍💻 I'm Chenyu Yang👋 (Team player / Adaptable /  Communication)<br><br>
 
 · 📚 I graduated from San Jose State University with a Bachelor of Science degree in Computer Science <br>
 
