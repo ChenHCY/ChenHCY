@@ -50,7 +50,7 @@
 </div>
 
 <div align="left">
-👩‍💻 Introduction to Front-End Development - Meta  <a href="https://coursera.org/share/f2736ef4a4ec105b82438fd02fd252b7"> Certifications </a> <br>
+👩‍💻 Introduction to Front-End Development - Meta  <a href="https://coursera.org/share/f2736ef4a4ec105b82438fd02fd252b7"> Certifications </a> <br><br>
 
 👩‍💻 Programming with JavaScript - Meta  <a href="https://coursera.org/share/0376663ee92fce364977199394eda1ea"> Certifications </a> <br>
 
