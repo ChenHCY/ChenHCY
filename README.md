@@ -1,6 +1,6 @@
 <div align="center">
   <p><b> Chenyu Yang - Profile </b></p>
-  <p>Welcom to my Profile !</p>
+  <p>Phone: (925)963-3323 | Email: chenyanghcy@gmail.com </p>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 · 💻 Interest Area: Front End, Website Development, Android App, Soccer <br>
 
-· ⚙️ Hobbies: Soccer, Gym, Gym, MLB, NFL
+· ⚙️ Hobbies: Soccer, Gym, Gym, BaseBall, NFL
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <h2> <strong> Licenses & certifications </strong> </h2>
+  <h2> <strong> Licenses & Certifications </strong> </h2>
 </div>
 
 <div align="left">
