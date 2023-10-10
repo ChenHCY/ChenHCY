@@ -67,6 +67,8 @@
 
 👩‍💻 Version Control - Meta  <a href="https://www.coursera.org/account/accomplishments/certificate/NMF6HRZY6RNH"> Certifications </a> <br>
 
+👩‍💻 React Basics - Meta  <a href="https://www.coursera.org/account/accomplishments/certificate/QW7BGJ253CY6"> Certifications </a> <br>
+
 👩‍💻 JavaScript Algorithms and Data Structures - freeCodeCamp  <a href="https://freecodecamp.org/certification/ChenHCY0120/javascript-algorithms-and-data-structures"> Certifications </a> <br>
 </div>
 
