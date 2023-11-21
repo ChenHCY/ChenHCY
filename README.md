@@ -79,6 +79,8 @@
 
 👩‍💻 React Advance - Meta  <a href="https://www.coursera.org/account/accomplishments/certificate/HMU934AN3FZL"> Certifications </a> <br>
 
+👩‍💻 Principles of UX/UI Design - Meta  <a href="https://www.coursera.org/account/accomplishments/certificate/4E6RZF6ZBMQT"> Certifications </a> <br>
+
 👩‍💻 JavaScript Algorithms and Data Structures - freeCodeCamp  <a href="https://freecodecamp.org/certification/ChenHCY0120/javascript-algorithms-and-data-structures"> Certifications </a> <br>
 </div>
 
