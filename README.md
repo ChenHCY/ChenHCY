@@ -70,19 +70,7 @@
     <img src="./icon/linkedin.png" width="50x" alt="LinkedIn"/>
   </a>
    &nbsp
-  <a href="http://chenresume.com/" target="_blank">
-    <img src="./icon/web.png" width="50x" alt="Website"/>
-  </a>
-   &nbsp
   <a href="https://github.com/ChenHCY" target="_blank">
     <img src="./icon/github.png" width="50x" alt="Github"/>
-  </a>
-   &nbsp
-  <a href="https://www.facebook.com/chenyu.yang.568" target="_blank">
-    <img src="./icon/facebook.png" width="50px" alt="Facebook"/>
-  </a>
-  &nbsp
-  <a href="https://www.instagram.com/chen.hcy/" target="_blank">
-    <img src="./icon/ins.png" width="50px" alt="Instagram"/>
   </a>
 </div>
