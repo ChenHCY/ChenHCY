@@ -8,20 +8,7 @@
   <br>
 </div>
 
-<div align="left">
-· 👨‍💻 I'm Chenyu Yang👋 (Team player / Adaptable /  Communication)<br><br>
-
-· 📚 I graduated from San Jose State University with a B.S Computer Science in December 2022 <br>
-
-· 💻 I have been working as a Web Developer in a Start-up company since 2021. <br>
-
-· 👩‍💻 Curr Goals: I am actively seeking a Software Engineer / Front-End Developer / Website and Mobile App Developer Full-time Role / or 2024 Spring Internship. <br>
-
-· 💻 Interest Area: Front End, Website Development, Android App, Soccer <br>
-
-· ⚙️ Hobbies: Soccer, Gym, Gym, BaseBall, NFL
-</div>
-
+ 
 <div align="center">
   <h2> <strong> Education </strong> </h2> 
   <br>
