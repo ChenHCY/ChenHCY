@@ -1,13 +1,6 @@
 <div align="center">
   <p><b> Chenyu Yang - Profile </b></p>
-  <p>Phone: (925)963-3323 | Email: chenyanghcy@gmail.com </p>
 </div>
-
-<div align="center">
-  <h2> <strong> About </strong> me </h2>
-  <br>
-</div>
-
  
 <div align="center">
   <h2> <strong> Education </strong> </h2> 
