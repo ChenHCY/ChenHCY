@@ -24,7 +24,7 @@
 </div>
 
 <div align = "left">
-🏆 Leetcode Question: 600+ <a href="https://leetcode.com/HCYYCY/"> Leetcode Profile </a> 
+🏆 Leetcode Question: 700+ <a href="https://leetcode.com/HCYYCY/"> Leetcode Profile </a> 
 <p></p>
 💻 Algorithms Question: <a href="https://github.com/ChenHCY/AlgorithmsQuestion"> Github Repositories </a>
 <p></p>
