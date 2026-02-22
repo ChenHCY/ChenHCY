@@ -13,9 +13,9 @@
 🏆 College Honor: <br>
 · The SJSU Latin Honors Medallion - Cum Laude
 
-· The SJSU Dean's Scholars Award Honors <a href="http://chenresume.com/Files/Chenyu_Yang_Dean's_Scholar.pdf"> Certifications </a> 
+· The SJSU Dean's Scholars Award Honors 
 
-· The SJSU President’s Scholar Award Honor (TOP 10% GPA) <a href="http://chenresume.com/Files/Chenyu_Yang_President_Scholar.pdf"> Certifications </a> 
+· The SJSU President’s Scholar Award Honor (TOP 10% GPA)  
 </div>
 
 <div align="center">
