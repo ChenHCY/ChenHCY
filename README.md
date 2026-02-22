@@ -39,7 +39,7 @@
   <h2> <strong> Technologies and Skills  </strong> </h2>
   
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,html,css,cpp,js,ts,react,nodejs,nextjs,vuejs,redux,mongodb,webpack,vite,github,aws,py,sass,jquery" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,cpp,js,ts,react,nodejs,nextjs,vuejs,redux,mongodb,webpack,vite,github,aws,py,sass,jquery,graphql,restfulapi,php" alt="skills logos" />
 </div>
 
 <div align="center">
