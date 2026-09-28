@@ -1,6 +1,22 @@
 <div align="center">
   <p><b> Chenyu Yang - Profile </b></p>
 </div>
+
+<div align="center">
+  <h2> <strong> About me </strong> </h2> 
+  <br>
+</div>
+
+<div align="left">
+I’m a Software Engineer with 3.5+ years of full-time experience building and shipping full-stack products, plus hands-on experience bringing AI capabilities into production. Most recently, I spent more than two years at an early-stage AI startup, where I helped build and scale a product from the ground up. I worked across the full product stack — from React, TypeScript, and modern frontend architecture to backend services, APIs, and databases.
+
+A significant part of my work has been turning AI capabilities into practical product experiences. I’ve worked on AI-powered search, analysis, filtering, and workflow features, focusing on how AI can be integrated into real user workflows rather than simply building AI in isolation. This experience has given me a strong interest in the intersection of software engineering, product development, and applied AI.
+
+I enjoy solving complex engineering problems, turning ambiguous requirements into simple and intuitive experiences, and working closely with product and engineering teams. I care about maintainable architecture, reusable components, performance, and building products that people actually enjoy using.
+I’m currently exploring my next opportunity in Software Engineering, Full-Stack Engineering, Frontend Engineering, Forward Deployed Engineering, or Applied AI Engineering — particularly on teams building impactful products and putting AI into real-world use.
+
+I hold a B.S. in Computer Science from San José State University, where I received the College President’s Scholar Award Honors in 2020 and graduated Cum Laude. Always happy to connect.
+</div>
  
 <div align="center">
   <h2> <strong> Education </strong> </h2> 
@@ -24,7 +40,7 @@
 </div>
 
 <div align = "left">
-🏆 Leetcode Question: 700+ <a href="https://leetcode.com/HCYYCY/"> Leetcode Profile </a> 
+🏆 Leetcode Question: 780+ <a href="https://leetcode.com/HCYYCY/"> Leetcode Profile </a> 
 <p></p>
 💻 Algorithms Question: <a href="https://github.com/ChenHCY/AlgorithmsQuestion"> Github Repositories </a>
 <p></p>
