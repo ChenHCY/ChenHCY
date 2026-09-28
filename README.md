@@ -55,7 +55,7 @@ I hold a B.S. in Computer Science from San José State University, where I recei
   <h2> <strong> Technologies and Skills  </strong> </h2>
   
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,html,css,cpp,js,ts,react,nodejs,nextjs,vuejs,redux,mongodb,webpack,vite,github,aws,py,sass,jquery,graphql,php" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,fastapi,py,java,ai,html,css,tailwind,graphql,postgres,mysql,elasticsearch,d3,docker,aws,git,github,vite,redux&perline=12" alt="skills logos" />
 </div>
 
 <div align="center">
